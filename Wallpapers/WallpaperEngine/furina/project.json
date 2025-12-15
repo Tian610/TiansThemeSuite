@@ -1,0 +1,17 @@
+{
+	"file" : "UpscaleVideo_2_20240111.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.34510 0.44314 0.57647"
+			}
+		}
+	},
+	"title" : "Furina"
+}

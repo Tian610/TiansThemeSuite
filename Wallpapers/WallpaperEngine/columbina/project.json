@@ -1,0 +1,19 @@
+{
+	"file" : "4320x2160(1).mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.40784 0.57255 0.73333"
+			}
+		}
+	},
+	"title" : "Columbina",
+	"type" : "video",
+	"version" : 0
+}

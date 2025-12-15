@@ -1,0 +1,1 @@
+We'll need FrostedGlass, WebNowPlaying, and MagickMeter, you also need to install ImageMagick

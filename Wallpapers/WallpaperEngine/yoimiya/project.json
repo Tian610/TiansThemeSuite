@@ -1,0 +1,17 @@
+{
+	"file" : "UpscaleVideo_1_20240111.mp4",
+	"general" : 
+	{
+		"properties" : 
+		{
+			"schemecolor" : 
+			{
+				"order" : 0,
+				"text" : "ui_browse_properties_scheme_color",
+				"type" : "color",
+				"value" : "0.45490 0.52157 0.65882"
+			}
+		}
+	},
+	"title" : "Yoimiya"
+}
